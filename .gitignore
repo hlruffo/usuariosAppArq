@@ -51,7 +51,6 @@ ReSharper*/
 # Arquivos de projeto
 *.xproj
 *.swp
-*.sln
 *.csproj.user
 *.csproj.dotsettings.user
 *.suo
